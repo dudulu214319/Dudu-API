@@ -1,6 +1,6 @@
-package com.yupi.springbootinit.mapper;
+package com.dudulu.springbootinit.mapper;
 
-import com.yupi.springbootinit.model.entity.Post;
+import com.dudulu.springbootinit.model.entity.Post;
 import java.util.Date;
 import java.util.List;
 import javax.annotation.Resource;
@@ -11,8 +11,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * 帖子数据库操作测试
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author <a href="https://github.com/lidudulu"></a>
+ * @from <a href="https://dudulu.icu"></a>
  */
 @SpringBootTest
 class PostMapperTest {

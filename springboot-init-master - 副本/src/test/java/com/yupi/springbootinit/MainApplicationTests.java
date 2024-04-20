@@ -1,18 +1,18 @@
-package com.yupi.springbootinit;
+package com.dudulu.springbootinit;
 
-import com.yupi.springbootinit.config.WxOpenConfig;
+import com.dudulu.springbootinit.config.WxOpenConfig;
 import javax.annotation.Resource;
 
-import com.yupi.yuapiclientsdk.client.YuApiClient;
-import com.yupi.yuapiclientsdk.model.User;
+import com.dudulu.yuapiclientsdk.client.YuApiClient;
+import com.dudulu.yuapiclientsdk.model.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 /**
  * 主类测试
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author <a href="https://github.com/lidudulu"></a>
+ * @from <a href="https://dudulu.icu"></a>
  */
 @SpringBootTest
 class MainApplicationTests {
